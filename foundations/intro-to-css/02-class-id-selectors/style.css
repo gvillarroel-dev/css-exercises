@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.paragraph {
+  background: #f7a5a5;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+  font-size: 16px;
+}
+
+.large-size {
+  font-size: 24px;
+}
+
+#div_1 {
+  color: blue;
+  font-size: 36px;
+}
+
+#div_2 {
+  background: rgb(127, 240, 127);
+  font-size: 24px;
+  font-weight: bold;
+}
